@@ -25,4 +25,3 @@ Hi there 👋, I'm hùng (Roonie)
 
 🚀  Always learning. Currently exploring: cloud data platforms (BigQuery, AWS, Databricks), data architecture, and scalable design patterns.
 
-Let's connect!
